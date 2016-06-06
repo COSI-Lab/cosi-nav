@@ -4,7 +4,7 @@ A simple web component for the navigation list at the top of most COSI webpages
 ## Usage
 To use this web component on a website, download the webcomponents polyfill: [webcomponents.js](https://raw.githubusercontent.com/webcomponents/webcomponentsjs/master/webcomponents.js).
 
-Next, include the polyfill in the <head> section, and then import cosi-nav as such:
+Next, include the polyfill in the head section, and then import cosi-nav as such:
 
 ```html
 <link rel="import" href="/path/to/components/cosi-nav.html">
