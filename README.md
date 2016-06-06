@@ -2,9 +2,10 @@
 A simple web component for the navigation list at the top of most COSI webpages
 
 ## Usage
-To use this web component on a website, download the webcomponents polyfill: [webcomponents.js](https://raw.githubusercontent.com/webcomponents/webcomponentsjs/master/webcomponents.js).
-
-Next, include the polyfill in the head section, and then import cosi-nav as such:
+To use this web component on a website, download the webcomponents polyfill
+from [webcomponents.org](http://webcomponents.org) under the Polyfills section.
+Then import webcomponents.min.js into the head section of the webpage and
+import the cosi-nav html file in the head section as well as such:
 
 ```html
 <link rel="import" href="/path/to/components/cosi-nav.html">
