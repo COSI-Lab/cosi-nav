@@ -1,0 +1,17 @@
+{
+	"links": [
+		{"name": "CSLabs Homepage", "url": "http://cosi.clarkson.edu"},
+		{"name": "Dubsdot", "url": "http://dubsdot.cosi.clarkson.edu"},
+		{"name": "Talos", "url": "http://talos.cosi.clarkson.edu"},
+		{"name": "Docs", "url": "http://docs.cosi.clarkson.edu"},
+		{"name": "Print", "url": "http://print.cosi.clarkson.edu"},
+		{"name": "Mirror", "url": "http://mirror.clarkson.edu"},
+		{"name": "Fsuvius", "url": "http://fsuvius.cosi.clarkson.edu"},
+		{"name": "Talks", "url": "http://talks.cosi.clarkson.edu"},
+		{"name": "Meeting Minutes", "url": "https://cosi-lab.github.io/meeting-minutes/"},
+		{"name": "Project Updates", "url": "https://cosi-lab.github.io/project-updates/"},
+		{"name": "Management", "url": "http://management.cosi.clarkson.edu"},
+		{"name": "The Internet", "url": "http://the-internet.cosi.clarkson.edu"},
+		{"name": "Derpy Sayings", "url": "http://derpysayings.cslabs.clarkson.edu"}
+	] 
+}
