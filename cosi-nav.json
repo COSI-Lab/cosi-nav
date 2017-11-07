@@ -12,6 +12,8 @@
 		{"name": "Project Updates", "url": "https://cosi-lab.github.io/project-updates/"},
 		{"name": "Management", "url": "http://management.cosi.clarkson.edu"},
 		{"name": "The Internet", "url": "http://the-internet.cosi.clarkson.edu"},
-		{"name": "Derpy Sayings", "url": "http://derpysayings.cslabs.clarkson.edu"}
+		{"name": "Derpy Sayings", "url": "http://derpysayings.cslabs.clarkson.edu"},
+		{"name": "Scoreboard", "url": "http://scoreboard.cslabs.clarkson.edu"},
+		{"name": "Scheduler", "url": "http://scheduler.cslabs.clarkson.edu/"}
 	] 
 }
